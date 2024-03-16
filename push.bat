@@ -1,3 +1,3 @@
 git add .
 git commit -m "updoot %date%%time%"
-git push
+git push -u origin master
